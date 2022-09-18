@@ -1,0 +1,20 @@
+# NLW eSports
+
+![preview](./.github/preview1.png)
+
+> Trilha Explorer
+
+Projeto construido no evento Next Level Week da Rocketseat.
+
+[🔗 Clique aqui para acessar](https://GyanRibeiro.io/nlwprojeto)
+
+
+## 🔧 Tecnologias
+
+- CSS
+- HTML
+- Git e Github
+
+## 📩 Contato
+
+gyanribeiro29@gmail.com
