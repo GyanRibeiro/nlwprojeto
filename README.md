@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://GyanRibeiro.io/nlwprojeto)
+[🔗 Clique aqui para acessar](https://GyanRibeiro.github.io/nlwprojeto)
 
 
 ## 🔧 Tecnologias
